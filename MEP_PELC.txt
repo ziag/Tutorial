@@ -1,0 +1,6 @@
+tabNumTransactionEnLigne
+tabTransactionEnLigne
+
+
+[sp_InsertTabPaiementFromOnLine]
+[sp_insertTransactionMecFromWeb]
